@@ -96,6 +96,8 @@ export default function Validate() {
                 }`}>
                 {checking ? <><Loader2 size={18} className="animate-spin" /> Checking...</> : 'Validate Code'}
               </button>
+              
+        
             </>
           )}
 

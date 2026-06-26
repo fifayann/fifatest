@@ -1,6 +1,6 @@
 // URL de base pour les QR codes (À CHANGER après déploiement Vercel)
 // URL de base pour les QR codes
-export const TICKET_BASE_URL = "https://fifa-wc-2026-tau.vercel.app";
+export const TICKET_BASE_URL = "https://fifa-wc-2026-ten.vercel.app/";
 
 // Génère un numéro de ticket: TKT-2026-000154
 export function generateTicketNumber() {
