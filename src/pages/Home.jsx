@@ -44,7 +44,7 @@ export default function Home() {
       {/* ===== HERO ===== */}
       <section className="max-w-[1400px] mx-auto px-4 py-6">
         <div className="relative rounded-2xl overflow-hidden bg-fifa-black text-white min-h-[520px] flex items-end">
-          <img src="/players/who-wins.jpeg" alt="World Cup 2026" className="absolute inset-0 w-full h-full object-cover opacity-70" />
+          <img src="/ff.jfif" alt="World Cup 2026" className="absolute inset-0 w-full h-full object-cover opacity-70" />
           <div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent" />
           <div className="relative z-10 p-8 md:p-12 max-w-2xl">
             <span className="inline-block bg-fifa-bright text-white text-xs font-bold px-3 py-1.5 rounded-full mb-4 uppercase tracking-wide">{t.hero.tag}</span>
